@@ -20,8 +20,7 @@
 </div>
 
 <div id='porfolio'>
-  <a href='https://github.com/EPartsevskiy/Portfolio'>
-  <h2> 📁 Portfolio ML-engineer </h2>
+  <a href='https://github.com/EPartsevskiy/Portfolio'> 📁 Portfolio ML-engineer 
   </a>
 </div>
     
