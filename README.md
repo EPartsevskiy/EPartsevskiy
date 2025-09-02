@@ -11,12 +11,7 @@
 
 <div id='about_me'>
   <h2> &#128104;&#8205;&#128188; About me:</h2>
-<ul>
-  <li> I worked in the construction industry as an engineer 🏗 </li>
-  <li> I managed projects in the field of design 📝 </li>
-  <li> I have several scientific publications and several speaker certificates at scientific and technical conferences 🧑‍🔬 </li>
-  <li> I like active recreation: surfing, skiing, etc. 🏄 ⛷️ </li>
-</ul>
+  <h3>A data Scientist with a strong analytical background in project management and a deep interest in machine learning. I have experience in successfully using the DS stack to solve applied tasks at hackathons. It is aimed at solving business problems through data analysis and building ML models. I have experience in public speaking and writing scientific articles.</h3>
 </div>
 
 <div id='porfolio'>
