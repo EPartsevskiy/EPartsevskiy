@@ -11,7 +11,7 @@
 
 <div id='about_me'>
   <h2> &#128104;&#8205;&#128188; About me:</h2>
-  <h3>A data Scientist with a strong analytical background in project management and a deep interest in machine learning. I have experience in successfully using the DS stack to solve applied tasks at hackathons. It is aimed at solving business problems through data analysis and building ML models. I have experience in public speaking and writing scientific articles.</h3>
+  <h3>A DS with a strong analytical background in project management and a deep interest in machine learning. I have experience in successfully using the DS stack to solve applied tasks at hackathons. It is aimed at solving business problems through data analysis and building ML models. I have experience in public speaking and writing scientific articles.</h3>
 </div>
 
 <div id='porfolio'>
